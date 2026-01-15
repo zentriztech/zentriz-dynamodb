@@ -2,6 +2,8 @@
 
 Zentriz DynamoDB Package - DynamoDB client for Event Store (CQRS).
 
+> **Status**: Ready for production use
+
 ## Installation
 
 ```bash
